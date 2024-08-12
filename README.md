@@ -1,7 +1,5 @@
 # 📕 Libreria del Saber📕
 
-[![ejemplo](imagenes/portada.png)]
+[![ejemplo](Imagenes/portada.png)]
 
 ## 📄 Documentación 📄
-
-[text](../README/Imagenes)
