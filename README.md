@@ -65,10 +65,12 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 
 ## Paleta de colores
 
-[![p6.png](https://i.postimg.cc/rpzQ9MVh/p6.png)](https://postimg.cc/d7P2sMTd)
+[![p6.png](https://i.postimg.cc/zDkK3453/p6.png)](https://postimg.cc/s1vvN6MR)
 
 ## Tipografia
 
 [![p7.png](https://i.postimg.cc/bwwTzptz/p7.png)](https://postimg.cc/qzWnwfwY)
 
 # Prototipos desarrollados
+
+zzz
