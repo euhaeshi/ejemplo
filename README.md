@@ -58,3 +58,17 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
    por la tienda, buscar libros y realizar compras sin dificultad.
 
 # Mapa de sitio
+
+[![p5.png](https://i.postimg.cc/8z40HZhC/p5.png)](https://postimg.cc/TKy02qN8)
+
+# Paleta de colores y tipografia
+
+## Paleta de colores
+
+[![p6.png](https://i.postimg.cc/rpzQ9MVh/p6.png)](https://postimg.cc/d7P2sMTd)
+
+## Tipografia
+
+[![p7.png](https://i.postimg.cc/bwwTzptz/p7.png)](https://postimg.cc/qzWnwfwY)
+
+# Prototipos desarrollados
