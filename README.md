@@ -11,10 +11,18 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 
 ### Participantes del proyecto
 
-- Diseñador web:Juan Sarasi
-- Editor de contenidos:Diego Adrián
-- Diseñador grafico:Jeanpier Ramos
+- **Diseñador web:**Juan Sarasi
+- **Editor de contenidos:**Diego Adrián
+- **Diseñador grafico:**Jeanpier Ramos
 
 ### Cronograma de trabajo
 
 [![gestion.png](https://i.postimg.cc/Z54qNQ5D/gestion.png)](https://postimg.cc/fJqZnBXx)
+
+## Encuesta de levantamiento de informacion
+
+### **Pregunta 1**
+
+[![p1.png](https://i.postimg.cc/Fsx36810/p1.png)](https://postimg.cc/9rrDRxdf)
+
+### **Pregunta 2**
