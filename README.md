@@ -9,10 +9,12 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 
 ## Gestion del proyecto
 
-[![gestion.png](https://i.postimg.cc/Z54qNQ5D/gestion.png)](https://postimg.cc/fJqZnBXx)
-
 ### Participantes del proyecto
 
 - Diseñador web:Juan Sarasi
 - Editor de contenidos:Diego Adrián
 - Diseñador grafico:Jeanpier Ramos
+
+### Cronograma de trabajo
+
+[![gestion.png](https://i.postimg.cc/Z54qNQ5D/gestion.png)](https://postimg.cc/fJqZnBXx)
