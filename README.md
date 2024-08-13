@@ -73,4 +73,4 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 
 # Prototipos desarrollados
 
-zzz
+[![p8.png](https://i.postimg.cc/sxnMKdDc/p8.png)](https://postimg.cc/zHgDXQhb)
