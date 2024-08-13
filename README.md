@@ -26,3 +26,35 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 [![p1.png](https://i.postimg.cc/Fsx36810/p1.png)](https://postimg.cc/9rrDRxdf)
 
 ### **Pregunta 2**
+
+[![p2.png](https://i.postimg.cc/m2qBT2c4/p2.png)](https://postimg.cc/TprZ9xqN)
+
+### **Pregunta 3**
+
+[![p3.png](https://i.postimg.cc/CLZprTcQ/p3.png)](https://postimg.cc/SJpPj5F6)
+
+### **Pregunta 4**
+
+[![p4.png](https://i.postimg.cc/mgQqKbC8/p4.png)](https://postimg.cc/SnxDMbZM)
+
+## Requerimiento funcionales y no funcionales
+
+### Requerimientos funcionales
+
+1. **Búsqueda:**El usuario debe poder buscar los libros por título, autor, género o palabra clave.
+2. **Visualización de detalles del libro:**El usuario podrá ver información detallada sobre los libros, como sinopsis, precio y disponibilidad.
+3. **Carrito de compras:**El usuario debe poder agregar los libros al carrito de compras, ver el resumen de su pedido y proceder al pago.
+4. **Catalogo de libros:**El usuario debe poder ver el catalogo en linea de los libros que se ofrece.
+5. **Gestión de inventario:**El sistema debe mantener un registro actualizado del inventario. Cuando un libro se agota, debe reflejarse en la plataforma.
+6. **Cuenta:**Los usuarios podrán iniciar sesión en el sistema utilizando su nombre de usuario y contraseña.
+
+### Requerimientos no funcionales
+
+1. **Disponibilidad:** El sistema debe estar disponible las 24 horas del día, los 7 días de la semana. Los clientes deben poder acceder
+   a la tienda virtual en cualquier momento.
+2. **Confiabilidad:** El sistema debe ofrecer una respuesta rápida, generalmente en menos de 3 segundos, para garantizar
+   una buena experiencia de usuario durante la navegación y la búsqueda de productos.
+3. **Usabilidad:**La interfaz de usuario debe ser intuitiva y fácil de usar. Los clientes deben poder navegar
+   por la tienda, buscar libros y realizar compras sin dificultad.
+
+# Mapa de sitio
