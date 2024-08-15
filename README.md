@@ -77,7 +77,17 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 
 ## Uso de recursos
 
-Iconos:
+### Varios iconos(+8)
+
+[![i2.png](https://i.postimg.cc/9FCWvrRn/i2.png)](https://postimg.cc/Z0stNYL8)
+
+### Logo
+
+[![i1.jpg](https://i.postimg.cc/FF2Scb6J/i1.jpg)](https://postimg.cc/z3F3Yh8J)
+
+### Varias imagenes(+40)
+
+[![i3.png](https://i.postimg.cc/d3vYPx1y/i3.png)](https://postimg.cc/dkWXGnGs)
 
 ## Buenas practicas de diseño
 
