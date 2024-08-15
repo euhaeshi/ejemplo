@@ -87,7 +87,17 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
   </a>
 </div>
 
-2. **Jerarquia Visual:** Organizar el contenido de manera que los elementos más importantes se destaquen.
+2. **Jerarquia visual:** Organizar el contenido de manera que los elementos más importantes se destaquen.
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://postimg.cc/dkcgqLwF">
+    <img src="https://i.postimg.cc/tTsbNxcs/jv1.png)" alt="jv1.png" style="width: 45%;" />
+  </a>
+  <a href="https://postimg.cc/JGzv4wVs">
+    <img src="https://i.postimg.cc/5NBVg1sS/jv2.png" alt="jv2.png" style="width: 45%;" />
+  </a>
+</div>
+
+3. **Tipografia legible:** Asegurar que el contenido sea fácil de leer y comprender.
 <div style="display: flex; justify-content: space-between;">
   <a href="https://postimg.cc/dkcgqLwF">
     <img src="https://i.postimg.cc/tTsbNxcs/jv1.png)" alt="jv1.png" style="width: 45%;" />
