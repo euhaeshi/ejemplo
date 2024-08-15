@@ -192,6 +192,8 @@ Implementarlo para que las imágenes y otros recursos se carguen solo cuando sea
 <br>
 <br>
 
+<!-- No centra :( -->
+
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h1>📕 Libreria del Saber📕</h1>
   <a href="https://postimg.cc/k63JSJFM">
