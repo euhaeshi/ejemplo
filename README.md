@@ -104,7 +104,7 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 2. **Jerarquia visual:** Organizar el contenido de manera que los elementos más importantes se destaquen.
 <div style="display: flex; justify-content: space-between;">
   <a href="https://postimg.cc/dkcgqLwF">
-    <img src="https://i.postimg.cc/tTsbNxcs/jv1.png)" alt="jv1.png" style="width: 45%;" />
+    <img src="https://i.postimg.cc/tTsbNxcs/jv1.png" alt="jv1.png" style="width: 45%;" />
   </a>
   <a href="https://postimg.cc/JGzv4wVs">
     <img src="https://i.postimg.cc/5NBVg1sS/jv2.png" alt="jv2.png" style="width: 45%;" />
@@ -114,3 +114,17 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 
 3. **Tipografia legible:** Asegurar que el contenido sea fácil de leer y comprender.
    [![tp1.png](https://i.postimg.cc/QxH7K4SD/tp1.png)](https://postimg.cc/8jgcqbqX)
+
+## Buenas practicas de programacion
+
+1. **Codigo limpio:** Codigo facil de leer y entender
+   [![i4.png](https://i.postimg.cc/vTRWQWF9/i4.png)](https://postimg.cc/KkNKf3Yv)
+2. **Codigo modular:** Dividir el código en módulos o funciones pequeñas y reutilizables.
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://postimg.cc/QFJrHQYt">
+    <img src="https://i.postimg.cc/zG9D2pnn/i5.png" alt="i5.png" style="width: 45%;" />
+  </a>
+  <a href="https://postimg.cc/gn3CTyWD">
+    <img src="https://i.postimg.cc/CL2wdJrW/i6.png" alt="i6.png" style="width: 45%;" />
+  </a>
+</div>
