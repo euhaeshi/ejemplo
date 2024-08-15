@@ -96,6 +96,7 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
     <img src="https://i.postimg.cc/5NBVg1sS/jv2.png" alt="jv2.png" style="width: 45%;" />
   </a>
 </div>
+<br>
 
 3. **Tipografia legible:** Asegurar que el contenido sea fácil de leer y comprender.
    [![tp1.png](https://i.postimg.cc/QxH7K4SD/tp1.png)](https://postimg.cc/8jgcqbqX)
