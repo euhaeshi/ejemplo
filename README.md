@@ -132,17 +132,17 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 3. **Refactorizacion:** Mejorar el código existente sin cambiar su funcionalidad.
 <div style="display: flex; justify-content: space-between;">
   <a href="https://postimg.cc/sM6w61vm">
-    <img src="https://i.postimg.cc/W4jC4kVB/i7.png" alt="i7.png" style="width: 50%;" />
+    <img src="https://i.postimg.cc/W4jC4kVB/i7.png" alt="i7.png" style="width: 45%;" />
   </a>
   <a href="https://postimg.cc/Lg3Vz8cz">
-    <img src="https://i.postimg.cc/NFWPvybP/i8.png" alt="i8.png" style="width: 50%;" />
+    <img src="https://i.postimg.cc/NFWPvybP/i8.png" alt="i8.png" style="width: 45%;" />
   </a>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://postimg.cc/bZB90MBF">
-    <img src="https://i.postimg.cc/nLHSxfYZ/i9.png" alt="i9.png" style="width: 50%;" />
+    <img src="https://i.postimg.cc/nLHSxfYZ/i9.png" alt="i9.png" style="width: 45%;" />
   </a>
   <a href="https://postimg.cc/B8PcmpWZ">
-    <img src="https://i.postimg.cc/R0XsVpXt/i10.png" alt="i10.png" style="width: 50%;" />
+    <img src="https://i.postimg.cc/R0XsVpXt/i10.png" alt="i10.png" style="width: 45%;" />
   </a>
 </div>
