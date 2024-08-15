@@ -154,3 +154,7 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 ## Publicacion del sitio web
 
 `📕Libreria del Saber📕` : <https://zshiloh.github.io/Libreria/>
+
+## Conclusiones
+
+En resumen, nuestro proyecto de e-commerce ha sido diseñado para transformar la experiencia de compra de libros, ofreciendo una plataforma que no solo facilita el acceso a una vasta colección de títulos, sino que también fomenta una comunidad de lectores apasionados. A través de la personalización y la comodidad de las compras en línea, esperamos no solo satisfacer las necesidades de los lectores actuales, sino también inspirar a nuevas generaciones a descubrir el placer de la lectura.
