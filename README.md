@@ -191,3 +191,9 @@ Implementarlo para que las imágenes y otros recursos se carguen solo cuando sea
 <br>
 <br>
 <br>
+<div style="text-align: center;">
+  <h1>📕 Libreria del Saber📕</h1>
+  <a href="https://postimg.cc/k63JSJFM">
+    <img src="https://i.postimg.cc/76bfpb5z/logo.jpg" alt="logo.jpg">
+  </a>
+</div>
