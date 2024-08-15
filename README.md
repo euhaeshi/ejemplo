@@ -5,7 +5,7 @@
 ## Presentacion del proyecto
 
 Nuestro proyecto de e-commerce tiene como objetivo revolucionar la forma en que las personas descubren, compran y disfrutan de los libros. A través de nuestra plataforma, ofrecemos una experiencia de compra única y personalizada, que combina la comodidad de las compras en línea con la pasión por la lectura.
-Nuestra librería en línea no solo proporciona una amplia selección de títulos, desde los clásicos atemporales hasta las últimas novedades, sino que también se enfoca en crear una comunidad de lectores.
+Nuestra librería no solo proporciona una amplia selección de títulos, desde los clásicos atemporales hasta las últimas novedades, sino que también se enfoca en crear una comunidad de lectores.
 
 ## Gestion del proyecto
 
