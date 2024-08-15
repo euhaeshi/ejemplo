@@ -186,6 +186,11 @@ Implementarlo para que las imágenes y otros recursos se carguen solo cuando sea
 
 ## Actualizar el contenido de tu página web de manera constante para mantener a los usuarios interesados y mejorar su posicionamiento en los motores de búsqueda.
 
+<br>
+<br>
+<br>
+<br>
+<br>
 # 📕 Libreria del Saber📕
 
 [![logo.jpg](https://i.postimg.cc/76bfpb5z/logo.jpg)](https://postimg.cc/k63JSJFM)
