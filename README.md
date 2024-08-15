@@ -178,13 +178,13 @@ En resumen, nuestro proyecto de e-commerce ha sido diseñado para transformar la
 
 ### Usar HTTPS
 
-Asegúrate de que tu sitio web utilice HTTPS en lugar de HTTP. Esto cifrara la información transmitida entre el servidor y los usuarios, protegiéndola de posibles interceptaciones.
+Asegurarse que nuestro sitio web utilice HTTPS en lugar de HTTP. Esto cifrara la información transmitida entre el servidor y los usuarios, protegiéndola de posibles interceptaciones.
 
 ## Lazy Loading
 
 Implementarlo para que las imágenes y otros recursos se carguen solo cuando sean visibles en la pantalla.
 
-## Actualizar el contenido de tu página web de manera constante para mantener a los usuarios interesados y mejorar su posicionamiento en los motores de búsqueda.
+## ✨Actualizar el contenido de nuestra página web de manera constante para mantener a los usuarios interesados y mejorar su posicionamiento en los motores de búsqueda✨
 
 <br>
 <br>
