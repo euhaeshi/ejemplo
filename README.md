@@ -148,3 +148,5 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 </div>
 
 ## Estructura de carpetas y archivos
+
+[![i11.png](https://i.postimg.cc/vHCDCQyg/i11.png)](https://postimg.cc/1fc9q1fs)
