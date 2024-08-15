@@ -158,3 +158,34 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 ## Conclusiones
 
 En resumen, nuestro proyecto de e-commerce ha sido diseñado para transformar la experiencia de compra de libros, ofreciendo una plataforma que no solo facilita el acceso a una vasta colección de títulos, sino que también fomenta una comunidad de lectores apasionados. A través de la personalización y la comodidad de las compras en línea, esperamos no solo satisfacer las necesidades de los lectores actuales, sino también inspirar a nuevas generaciones a descubrir el placer de la lectura.
+
+## Recomendaciones
+
+### Mas variedad con las paletas de colores
+
+### JavaScript:
+
+- Añadir efectos visuales como desvanecimientos, deslizamientos y animaciones para hacer nuestro sitio mas atractivo.
+- Utilizar AJAX para cargar contenido sin necesidad de recargar la página.
+- Crear ventanas emergentes para mostrar anuncios, ofertas especiales o formularios de suscripción.
+
+### Implementacion de reseñas:
+
+1. **Formulario de Reseñas:** Crea un formulario donde los usuarios puedan enviar sus reseñas. Puedes incluir campos como nombre, correo electrónico, calificación (por ejemplo, de 1 a 5 estrellas) y el comentario.
+2. **Mostrar Reseñas:** Muestra las reseñas en una sección dedicada. Puedes organizarlas por fecha, calificación o popularidad.
+3. **Calificaciones Visuales:** Usa estrellas o barras para representar visualmente las calificaciones. Esto hara que sea más fácil para los usuarios ver rápidamente la valoración de un libro.
+4. **Interactividad:** Permite a los usuarios dar “me gusta” o marcar como útil una reseña. Esto puede ayudar a destacar las reseñas más valiosas.
+
+### Usar HTTPS
+
+Asegúrate de que tu sitio web utilice HTTPS en lugar de HTTP. Esto cifrara la información transmitida entre el servidor y los usuarios, protegiéndola de posibles interceptaciones.
+
+## Lazy Loading
+
+Implementarlo para que las imágenes y otros recursos se carguen solo cuando sean visibles en la pantalla.
+
+## Actualizar el contenido de tu página web de manera constante para mantener a los usuarios interesados y mejorar su posicionamiento en los motores de búsqueda.
+
+# 📕 Libreria del Saber📕
+
+[![logo.jpg](https://i.postimg.cc/76bfpb5z/logo.jpg)](https://postimg.cc/k63JSJFM)
