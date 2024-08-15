@@ -82,7 +82,7 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
   <a href="https://postimg.cc/tsV6hTQ8">
     <img src="https://i.postimg.cc/2S0xNbHj/responsive1.png" alt="responsive1.png" style="width: 45%;" />
   </a>
-  <a href="https://postimg.cc/zHgDXQhb">
-    <img src="https://i.postimg.cc/sxnMKdDc/p8.png" alt="p8.png" style="width: 45%;" />
+  <a href="https://postimg.cc/qtxzL6mD">
+    <img src="https://i.postimg.cc/43rVXzpG/responsive2.png" alt="responsive2.png" style="width: 45%;" />
   </a>
 </div>
