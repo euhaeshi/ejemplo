@@ -80,9 +80,9 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 1. **Diseño web adaptable:** La pagina web se adapta automaticamente a diferentes tamaños de pantalla, proporcionando una visualizacion optima y una mejor experiencia del usuario
 <p align="center">
   <a href="https://postimg.cc/tsV6hTQ8">
-    <img src="https://i.postimg.cc/2S0xNbHj/responsive1.png" alt="responsive1.png" width="45%" />
+    <img src="https://i.postimg.cc/2S0xNbHj/responsive1.png" alt="responsive1.png" style="width: 45%; vertical-align: top;" />
   </a>
   <a href="https://postimg.cc/qtxzL6mD">
-    <img src="https://i.postimg.cc/43rVXzpG/responsive2.png" alt="responsive2.png" width="45%" />
+    <img src="https://i.postimg.cc/43rVXzpG/responsive2.png" alt="responsive2.png" style="width: 45%; vertical-align: top;" />
   </a>
 </p>
