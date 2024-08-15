@@ -78,7 +78,7 @@ Nuestra librería en línea no solo proporciona una amplia selección de título
 # Buenas practicas de diseño
 
 1. **Diseño web adaptable:** La pagina web se adapta automaticamente a diferentes tamaños de pantalla, proporcionando una visualizacion optima y una mejor experiencia del usuario
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start;">
   <a href="https://postimg.cc/tsV6hTQ8">
     <img src="https://i.postimg.cc/2S0xNbHj/responsive1.png" alt="responsive1.png" style="width: 45%;" />
   </a>
