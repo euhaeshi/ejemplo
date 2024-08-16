@@ -73,6 +73,8 @@ Nuestra librería no solo proporciona una amplia selección de títulos, desde l
 
 ## Prototipos desarrollados
 
+### Figma
+
 [![p8.png](https://i.postimg.cc/sxnMKdDc/p8.png)](https://postimg.cc/zHgDXQhb)
 
 ## Uso de recursos
